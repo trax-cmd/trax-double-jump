@@ -106,7 +106,7 @@ if (typeof CanvasRenderingContext2D !== 'undefined' && !CanvasRenderingContext2D
 }
 
 // ============================================================
-//  DOUBLE JUMP — TRACKS runs the Diamond District
+//  DOUBLE JUMP — TRAX runs the Diamond District
 //  press 1 -> jump — always a full arc
 //  press 2 -> double jump spin, full fresh impulse
 //  press 3 -> jetpack ignites; hold to thrust
